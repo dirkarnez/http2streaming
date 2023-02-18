@@ -10,6 +10,9 @@ http2streaming
   openssl req -x509 -newkey rsa:2048 -nodes -sha256 -subj '/CN=localhost' -keyout localhost-privkey.pem -out localhost-cert.pem
   ```
 
+### Tools
+- [alexandrehtrb/Pororoca: A HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.](https://github.com/alexandrehtrb/Pororoca)
+
 ### Reference
 - [ReadableStream - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/ReadableStream)
 - [davedoesdev/browser-http2-duplex: Full-duplex stream emulation over HTTP/2](https://github.com/davedoesdev/browser-http2-duplex)
